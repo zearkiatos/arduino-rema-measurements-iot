@@ -27,13 +27,13 @@ const char ssid[] = SSID;
 const char pass[] = PASSWORD;
 
 // Usuario uniandes sin @uniandes.edu.co
-#define HOSTNAME HOSTNAME
+#define HOSTNAME MQTT_HOSTNAME
 
 // Conexión a Mosquitto
 const char MQTT_HOST[] = "iotlab.virtual.uniandes.edu.co";
 const int MQTT_PORT = 8082;
 // Usuario uniandes sin @uniandes.edu.co
-const char MQTT_USER[] = MQTT_USER;
+const char MQTT_USER[] = MQTT_USERNAME;
 // Contraseña de MQTT que recibió por correo
 const char MQTT_PASS[] = MQTT_PASSWORD;
 const char MQTT_SUB_TOPIC[] = HOSTNAME "/";
