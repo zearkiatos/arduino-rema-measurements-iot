@@ -5,8 +5,8 @@
 #define SSID ""
 #define PASSWORD ""
 #define MQTT_PASSWORD ""
-#define HOSTNAME ""
-#define MQTT_USER ""
+#define MQTT_HOSTNAME ""
+#define MQTT_USERNAME ""
 #define LOCATION ""
 
 #endif
