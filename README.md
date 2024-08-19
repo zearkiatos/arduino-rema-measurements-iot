@@ -1,5 +1,5 @@
 # Description
-This is a project to measure the humidity 💧 temperature 🌡️ and 💡 with an Arduino 🤖 device with C++
+This is a project to measure the humidity 💧 temperature 🌡️ and luminosity💡 with an Arduino 🤖 device with C++
 
 # Made with
 # Made with
